@@ -1,0 +1,16 @@
+Hi this is a text document
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet neque saepe ad consequatur quia nisi 
+autem in voluptate dolor laudantium! Quidem amet fuga suscipit culpa rerum fugit dolorum nostrum molestiae.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate eum voluptas cum? Velit nesciunt impedit ut 
+similique ea modi maiores consectetur in accusantium necessitatibus, odio quod consequatur dignissimos at numquam.
+I added a new content to this file using ruby
+I added a new content to this file using ruby
+I added a new content to this file using ruby
+I added a new content to this file using ruby
+I added a new content to this file using ruby
+I added a new content to this file using ruby
+I added a new content to this file using ruby
+I added a new content to this file using ruby
+I added a new content to this file using ruby
+I added a new content to this file using ruby
